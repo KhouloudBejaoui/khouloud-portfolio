@@ -34,7 +34,7 @@ export const Bio = {
     description:"I am a motivated and versatile software engineer with a strong passion for technology and continuous learning. A graduate from the Higher Institute of Computer Science (ISI Ariana), I have experience in both front-end and back-end development, having worked on various challenging projects. With a growth mindset and a dedication to delivering high-quality results, I am eager to take on new challenges, contribute meaningfully, and participate in innovative and impactful projects.",
     github: "https://github.com/KhouloudBejaoui",
     resume:
-      "https://drive.google.com/file/d/16yQYjXL_VDP4rCk28H2hxTaPAAReIb6q/view?usp=sharing",
+      "https://drive.google.com/file/d/1Pz9TnQ4idGMkReOaBZ0P_DnFsXknrYgR/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/khouloud-bejaoui",
     twitter: "https://x.com/BejaouiKhoulou8",
     insta: "https://www.instagram.com/bejaoui__khouloud/",
