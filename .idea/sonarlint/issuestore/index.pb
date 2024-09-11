@@ -52,3 +52,5 @@ V
 &src/components/cards/CertificationCard,6\6\66b4b9893f98ad61a062085b8d20a2b396f9614f
 Z
 *src/components/cards/CertificationCard.jsx,6\d\6d87271305daaa49aeb732d841bb36f5024e0cdf
+<
+package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
