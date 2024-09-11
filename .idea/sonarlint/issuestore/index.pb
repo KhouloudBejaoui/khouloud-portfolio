@@ -1,0 +1,54 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+?
+src/App.test.js,9\2\923703ced91ac38943d37930d9d27a7ebe8f01ad
+:
+
+src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
+;
+src/App.css,a\a\aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
+<
+src/index.js,f\9\f900edc44cb929c2267a16100a32851f6d5b477d
+C
+src/utils/motion.js,1\4\142724a6e4003e91fb8d7762971566a80267afdd
+A
+public/index.html,f\4\f43ecdf8d666ee908aacce037b4cd72159e4741b
+T
+$src/components/cards/ProjectCard.jsx,2\2\2276d942d16b381b7c03ec7e006104cae6095c10
+I
+public/planet/license.txt,0\6\0637d59b56cc0ce2e7a7205377a5be5f7cbf79b0
+H
+public/planet/scene.gltf,6\5\654a3b157ab5c6cb7e97cd5e77837dbd4297d578
+I
+src/components/Navbar.jsx,d\1\d1eb1e252fd507134cfc95e08757d087da9b650a
+W
+'src/components/HeroBgAnimation/index.js,e\3\e39dfe165d3cab67f5fbdbc1eb49f8faf9975979
+f
+6src/components/HeroBgAnimation/HeroBgAnimationStyle.js,f\5\f5e81e91343dbc776b320ec0bb6e6828c3a35aee
+X
+(src/components/Dialog/ProjectDetails.jsx,9\9\99d3239784bb6835bd0eddfbbb16be6ea6dbf251
+O
+src/components/canvas/Stars.jsx,7\d\7d8a725ffdd63c346fedd9512d74c32cc39cc999
+O
+src/components/canvas/Earth.jsx,3\a\3aebeedfe7898220777a46c13c258f1b5872f7c6
+V
+&src/components/cards/EducationCard.jsx,c\f\cf00f83fdd3efe43432acbd70af06d792b0b80a4
+W
+'src/components/cards/ExperienceCard.jsx,5\6\5663ad0a539102adf186c093ddb9aa5e9fb6a689
+P
+ src/components/sections/Hero.jsx,4\b\4b63994b951bfb115802b88ad754d51e3b2d404f
+E
+src/data/constants.js,a\6\a6e6fe3e940182cc41ac418bda30a4d9cff521f7
+R
+"src/components/sections/Footer.jsx,3\b\3bc0f3255a6d4bdd2b565a9d53a737a3f94b6a4e
+U
+%src/components/sections/Education.jsx,4\9\49d22def8d5a346559956786bc28a15c2c36992c
+T
+$src/components/sections/Projects.jsx,0\4\0494fdb7fd07da2cb8bfd840d20ef0feb6653049
+Z
+*src/components/sections/Certifications.jsx,9\5\95794450d26b6ad3a8f2262e5b21ced825517e43
+V
+&src/components/cards/CertificationCard,6\6\66b4b9893f98ad61a062085b8d20a2b396f9614f
+Z
+*src/components/cards/CertificationCard.jsx,6\d\6d87271305daaa49aeb732d841bb36f5024e0cdf
