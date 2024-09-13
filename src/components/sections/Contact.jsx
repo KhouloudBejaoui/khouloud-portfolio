@@ -140,7 +140,7 @@ const Contact = () => {
       .then(
         (result) => {
           alert("Message Sent");
-          form.current.resut();
+          form.current.reset();
         },
         (error) => {
           alert(error);
@@ -151,7 +151,7 @@ const Contact = () => {
   return (
     <Container>
       <Wrapper>
-        <EarthCanvas />
+        {/*<EarthCanvas />*/}
         <Title>Contact</Title>
         <Desc>
           Feel free to reach out to me for any questions or opportunities!

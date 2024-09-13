@@ -6,8 +6,6 @@
 :
 
 src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
-;
-src/App.css,a\a\aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
 <
 src/index.js,f\9\f900edc44cb929c2267a16100a32851f6d5b477d
 C
@@ -48,11 +46,11 @@ T
 $src/components/sections/Projects.jsx,0\4\0494fdb7fd07da2cb8bfd840d20ef0feb6653049
 Z
 *src/components/sections/Certifications.jsx,9\5\95794450d26b6ad3a8f2262e5b21ced825517e43
-V
-&src/components/cards/CertificationCard,6\6\66b4b9893f98ad61a062085b8d20a2b396f9614f
 Z
 *src/components/cards/CertificationCard.jsx,6\d\6d87271305daaa49aeb732d841bb36f5024e0cdf
 <
 package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
 A
 package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+S
+#src/components/sections/Contact.jsx,8\6\86fd3331405a24334cdd82807deb4bc7ab65b5e7

@@ -57,7 +57,7 @@ function App() {
               <Certifications openModal={openModal} setOpenModal={setOpenModal} />
               <Wrapper>
                 <Education />
-                <Contact />
+                {/*<Contact />*/}
               </Wrapper>
               <Footer />
 
