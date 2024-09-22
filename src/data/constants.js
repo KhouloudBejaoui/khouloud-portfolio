@@ -26,6 +26,8 @@ import react from "../images/certification/react.png";
 import blockchain from "../images/certification/blockchain.png";
 import reactjs from "../images/certification/reactjs.PNG";
 import java from "../images/certification/java.PNG";
+import devops2 from "../images/certification/devops2.PNG";
+import devops1 from "../images/certification/devops1.PNG";
 export const Bio = {
     name: "Khouloud Bejaoui",
     roles: [
@@ -539,54 +541,66 @@ export const Bio = {
 export const certifications = [
   {
     id: 1,
+    title: "DevOps Pre-Requisite Course",
+    image: devops2,
+    link: "https://drive.google.com/file/d/1pSkRDO8rOtHpPeGBTXSShCBK8xOz7v03/view?usp=sharing",
+  },
+  {
+    id: 2,
+    title: "Fundamentals of DevOps",
+    image: devops1,
+    link: "https://drive.google.com/file/d/1WrvTlqFMyRZqHRQYNr9TY5CxSzDpnHp5/view?usp=sharing",
+  },
+  {
+    id: 3,
     title: "React JS Tutorial",
     image: reactjs,
     link: "https://drive.google.com/file/d/1tPLZ_UYEige1zY5UE2Xu1pYDi5ogcHYB/view?usp=drive_link",
   },
   {
-    id: 2,
+    id: 4,
     title: "Java Programming",
     image: java,
     link: "https://drive.google.com/file/d/1U4uxQiP4g7eWZSPSHfBjipGjWDJmMZmp/view?usp=drive_link",
   },
   {
-    id: 3,
+    id: 5,
     title: "Dynamics 365 Fundamentals Finance and Operations Apps (ERP)",
     image: microsoft,
     link: "https://drive.google.com/file/d/1kd7Mml6iJlFBgRU-0YxNnZTl9tlWHA-T/view",
   },
   {
-    id: 4,
+    id: 6,
     title: "Fondamentaux du marketing numérique",
     image: marketing,
     link: "https://drive.google.com/file/d/1uNScau1-1I8HSp6KoblDzHY6IYJUNTEq/view",
   },
   {
-    id: 5,
+    id: 7,
     title: "Comprendre le Bitcoin et la Blockchain",
     image: blockchain,
     link: "https://drive.google.com/file/d/1NFmcG5ykCx7yYWTrdAMC1ZxPdGI6ElQu/view",
   },
   {
-    id: 6,
+    id: 8,
     title: "React Beginner's Bootcamp",
     image: react,
     link: "https://drive.google.com/file/d/1zWg2uegY9BWvPLl5YpnkQSNxKld8SbwC/view",
   },
   {
-    id: 7,
+    id: 9,
     title: "Initiez-vous à l'intelligence artificielle",
     image: AI,
     link: "https://drive.google.com/file/d/1Pm-1RrtyMJXRbnMy7AAvE-elIO8F0VLd/view",
   },
   {
-    id: 8,
+    id: 10,
     title: "Programming for Everybody (Getting Started with Python)",
     image: python,
     link: "https://drive.google.com/file/d/198ZaURJc4QqXqlfSEgNjQ6oi7nTnZHLV/view",
   },
   {
-    id: 9,
+    id: 11,
     title: "Python Data Structures",
     image: pythonData,
     link: "https://drive.google.com/file/d/16GGTvdrzqO3RmML4jHlvtxtFf0US_3uc/view",
