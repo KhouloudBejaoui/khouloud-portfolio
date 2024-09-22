@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/khouloud-portfolio/static/css/main.58a0c615.css",
-    "main.js": "/khouloud-portfolio/static/js/main.dc1088f2.js",
+    "main.js": "/khouloud-portfolio/static/js/main.4341a654.js",
     "static/media/movieSystem.PNG": "/khouloud-portfolio/static/media/movieSystem.4d3f714bee0c2f67ddb3.PNG",
     "static/media/donation.png": "/khouloud-portfolio/static/media/donation.38316146c5c53cc1baaa.png",
     "static/media/react.png": "/khouloud-portfolio/static/media/react.5caf820bd721971168ea.png",
@@ -12,6 +12,8 @@
     "static/media/marketing.PNG": "/khouloud-portfolio/static/media/marketing.2e34586d18cd104348c9.PNG",
     "static/media/deliveryApp.PNG": "/khouloud-portfolio/static/media/deliveryApp.1b57489b74414d8ec8ec.PNG",
     "static/media/blockchain.png": "/khouloud-portfolio/static/media/blockchain.ed9f9433cd608586a5c4.png",
+    "static/media/devops2.PNG": "/khouloud-portfolio/static/media/devops2.b8ac15350ef3e2c4e168.PNG",
+    "static/media/devops1.PNG": "/khouloud-portfolio/static/media/devops1.1d0e831cc881c1512825.PNG",
     "static/media/covid.png": "/khouloud-portfolio/static/media/covid.13003aecdf6bef1d60b9.png",
     "static/media/kodebook.png": "/khouloud-portfolio/static/media/kodebook.09d38da70c220815cb5b.png",
     "static/media/quiz.png": "/khouloud-portfolio/static/media/quiz.913a2688a8eafaf75db7.png",
@@ -31,10 +33,10 @@
     "static/media/lycee.PNG": "/khouloud-portfolio/static/media/lycee.f2e6a42c2121e578ceb6.PNG",
     "index.html": "/khouloud-portfolio/index.html",
     "main.58a0c615.css.map": "/khouloud-portfolio/static/css/main.58a0c615.css.map",
-    "main.dc1088f2.js.map": "/khouloud-portfolio/static/js/main.dc1088f2.js.map"
+    "main.4341a654.js.map": "/khouloud-portfolio/static/js/main.4341a654.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.dc1088f2.js"
+    "static/js/main.4341a654.js"
   ]
 }
